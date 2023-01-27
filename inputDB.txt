@@ -1,0 +1,26 @@
+6 9 9
+ADD_Airline SV Saudia SA saudia.com
+ADD_Airline EK Emirates UE emirates.com
+ADD_Airline NS NasAir SA flynas.com
+ADD_Airline BA BritishAirways UK britishairways.com
+ADD_Airline KL Holland NL klm.com
+ADD_Airline GF GulfAir BH gulfair.com
+ADD_Airport JED Jeddah KAIA
+ADD_Airport MED Madina PMIA
+ADD_Airport DXB Dubai DIA
+ADD_Airport BAH Bahrain BIA
+ADD_Airport CAI Cairo CIA
+ADD_Airport LHR London HAL
+ADD_Airport AMS Amsterdam AAS
+ADD_Airport KRT Khartoum KIA
+ADD_Airport CGK Jakarta SIA
+ADD_Flight 432 JED DXB 1300
+ADD_Flight 764 MED JED 660
+ADD_Flight 168 DXB MED 1430
+ADD_Flight 418 CAI DXB 2300
+ADD_Flight 654 BAH DXB 2450
+ADD_Flight 215 LHR MED 3100
+ADD_Flight 856 AMS KRT 2300
+ADD_Flight 985 KRT LHR 3280
+ADD_Flight 293 CGK CAI 2560
+Quit

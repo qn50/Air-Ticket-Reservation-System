@@ -1,0 +1,76 @@
+
+--------------- Air Ticket Reservation System Log ---------------
+
+
+(New Airline Added)	Airline No.: SV	Airline: Saudia	Hub: SA	URL: saudia.com}
+-------------------
+
+(New Airline Added)	Airline No.: EK	Airline: Emirates	Hub: UE	URL: emirates.com}
+-------------------
+
+(New Airline Added)	Airline No.: NS	Airline: NasAir	Hub: SA	URL: flynas.com}
+-------------------
+
+(New Airline Added)	Airline No.: BA	Airline: BritishAirways	Hub: UK	URL: britishairways.com}
+-------------------
+
+(New Airline Added)	Airline No.: KL	Airline: Holland	Hub: NL	URL: klm.com}
+-------------------
+
+(New Airline Added)	Airline No.: GF	Airline: GulfAir	Hub: BH	URL: gulfair.com}
+-------------------
+
+(New Flight Added)	Flight No: 432	Departure: JED	Destination: DXB	Fare: SAR 1300.0}
+-------------------
+
+(New Flight Added)	Flight No: 764	Departure: MED	Destination: JED	Fare: SAR 660.0}
+-------------------
+
+(New Flight Added)	Flight No: 168	Departure: DXB	Destination: MED	Fare: SAR 1430.0}
+-------------------
+
+(New Flight Added)	Flight No: 418	Departure: CAI	Destination: DXB	Fare: SAR 2300.0}
+-------------------
+
+(New Flight Added)	Flight No: 654	Departure: BAH	Destination: DXB	Fare: SAR 2450.0}
+-------------------
+
+(New Flight Added)	Flight No: 215	Departure: LHR	Destination: MED	Fare: SAR 3100.0}
+-------------------
+
+(New Flight Added)	Flight No: 856	Departure: AMS	Destination: KRT	Fare: SAR 2300.0}
+-------------------
+
+(New Flight Added)	Flight No: 985	Departure: KRT	Destination: LHR	Fare: SAR 3280.0}
+-------------------
+
+(New Flight Added)	Flight No: 293	Departure: CGK	Destination: CAI	Fare: SAR 2560.0}
+-------------------
+
+(New Airport Added)	Airport Code: JED	City: Jeddah	Name: KAIA}
+-------------------
+
+(New Airport Added)	Airport Code: MED	City: Madina	Name: PMIA}
+-------------------
+
+(New Airport Added)	Airport Code: DXB	City: Dubai	Name: DIA}
+-------------------
+
+(New Airport Added)	Airport Code: BAH	City: Bahrain	Name: BIA}
+-------------------
+
+(New Airport Added)	Airport Code: CAI	City: Cairo	Name: CIA}
+-------------------
+
+(New Airport Added)	Airport Code: LHR	City: London	Name: HAL}
+-------------------
+
+(New Airport Added)	Airport Code: AMS	City: Amsterdam	Name: AAS}
+-------------------
+
+(New Airport Added)	Airport Code: KRT	City: Khartoum	Name: KIA}
+-------------------
+
+(New Airport Added)	Airport Code: CGK	City: Jakarta	Name: SIA}
+-------------------
+

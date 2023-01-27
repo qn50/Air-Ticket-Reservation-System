@@ -1,0 +1,186 @@
+
+--------------- Welcome to Air Ticket Reservation System ---------------
+
+
+Booking No. 1674754948258
+
+Passenger Details	Passenger Name: Ali		Date of Birth: 1972-23-9
+
+Flight Details	Flight Code: SV-432			2021-15-3
+		Departure: JED			Destination: DXB
+
+Airport Details	tAirport Name: KAIA (JED), Jeddah
+
+Airline Details	Name: Saudia based in saudia.com
+
+Fare Details	Regular Fare: SAR 1300.0
+		Total Fare: SAR 1970.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948296
+
+Passenger Details	Passenger Name: Fahad		Date of Birth: 2013-19-7
+
+Flight Details	Flight Code: EK-764			2021-21-4
+		Departure: MED			Destination: JED
+
+Airport Details	tAirport Name: PMIA (MED), Madina
+
+Airline Details	Name: Emirates based in emirates.com
+
+Fare Details	Regular Fare: SAR 660.0
+		Total Fare: SAR 462.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948296
+
+Passenger Details	Passenger Name: Nasir		Date of Birth: 2020-8-11
+
+Flight Details	Flight Code: NS-168			2021-9-6
+		Departure: DXB			Destination: MED
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 1430.0
+		Total Fare: SAR 200.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948296
+
+Passenger Details	Passenger Name: Asad		Date of Birth: 2020-5-11
+
+Flight Details	Flight Code: NS-985			2021-19-6
+		Departure: DXB			Destination: LHR
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 3280.0
+		Total Fare: SAR 699.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948297
+
+Passenger Details	Passenger Name: Zahid		Date of Birth: 2002-24-4
+
+Flight Details	Flight Code: NS-168			2021-12-5
+		Departure: DXB			Destination: MED
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 1430.0
+		Total Fare: SAR 1550.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948297
+
+Passenger Details	Passenger Name: Kashif		Date of Birth: 1983-19-5
+
+Flight Details	Flight Code: NS-215			2021-11-3
+		Departure: DXB			Destination: MED
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 3100.0
+		Total Fare: SAR 4790.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948298
+
+Passenger Details	Passenger Name: Hamza		Date of Birth: 1997-13-8
+
+Flight Details	Flight Code: NS-418			2021-21-4
+		Departure: DXB			Destination: DXB
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 2300.0
+		Total Fare: SAR 2690.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948298
+
+Passenger Details	Passenger Name: Khaled		Date of Birth: 1975-25-11
+
+Flight Details	Flight Code: NS-654			2021-24-6
+		Departure: DXB			Destination: DXB
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 2450.0
+		Total Fare: SAR 3430.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948299
+
+Passenger Details	Passenger Name: Tahir		Date of Birth: 1986-30-3
+
+Flight Details	Flight Code: NS-215			2021-27-5
+		Departure: DXB			Destination: MED
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 3100.0
+		Total Fare: SAR 4700.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948299
+
+Passenger Details	Passenger Name: Zaid		Date of Birth: 2015-3-0
+
+Flight Details	Flight Code: NS-168			2021-1-7
+		Departure: DXB			Destination: MED
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 1430.0
+		Total Fare: SAR 2091.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948301
+
+Passenger Details	Passenger Name: Nail		Date of Birth: 2020-11-4
+
+Flight Details	Flight Code: NS-985			2021-7-4
+		Departure: DXB			Destination: LHR
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 3280.0
+		Total Fare: SAR 778.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948301
+
+Passenger Details	Passenger Name: Yaseer		Date of Birth: 2017-2-7
+
+Flight Details	Flight Code: NS-856			2021-14-6
+		Departure: DXB			Destination: KRT
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 2300.0
+		Total Fare: SAR 1610.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+Booking No. 1674754948302
+
+Passenger Details	Passenger Name: Faisal		Date of Birth: 2001-21-5
+
+Flight Details	Flight Code: NS-293			2021-12-8
+		Departure: DXB			Destination: CAI
+
+Airport Details	tAirport Name: DIA (DXB), Dubai
+
+Airline Details	Name: NasAir based in flynas.com
+
+Fare Details	Regular Fare: SAR 2560.0
+		Total Fare: SAR 2560.0
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
